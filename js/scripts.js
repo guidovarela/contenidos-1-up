@@ -3,12 +3,13 @@
     {
       nro: 1,
       titulo: "Introducción a la materia, fundamentos del desarrollo web",
-      pptLink: "materiales/Clase01_2025.pdf",
+      pptLink: "materiales/clase01.pdf",
       relatedLinks: [
         {url: "https://www.arsys.es/blog/desarrollo-pagina-web", label: "Fases del procesor de desarrollo web"},
-        {url: "https://www.w3schools.com/html/", label: "W3Schools HTML"},
+        {url: "materiales/clase01_terminologiaIT.pdf", label: "Conceptos y terminología IT"},
       ]
     },
+    /*
     {
       nro: 2,
       titulo: "Información, wireframes y mockups. Intro a HTML y CSS",
@@ -119,8 +120,7 @@
     //     {url: "https://www.javascript.com/", label: "JavaScript Oficial"},
     //   ]
     // },
-    
-    // Aquí podés ir agregando más clases
+    */
   ];
 
   const container = document.getElementById('classes-container');
@@ -161,3 +161,9 @@
 
     container.appendChild(card);
   });
+
+
+  // Actualizar año en el footer
+  const fechaSpan = document.getElementById('fecha');
+  const currentYear = new Date().getFullYear();
+  fechaSpan.textContent = currentYear;

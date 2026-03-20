@@ -33,6 +33,13 @@
       grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
       gap: 1.5rem;
     }
+    #info-container .card{
+      font-size: 1.2em;
+    }
+    #info-container .card:hover{
+      background: rgba(0, 119, 255,0.2);
+    }
+
     .card {
       background: white;
       padding: 1.2rem;
