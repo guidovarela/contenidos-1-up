@@ -9,30 +9,31 @@
         {url: "materiales/clase01_terminologiaIT.pdf", label: "Conceptos y terminología IT"},
       ]
     },
-    /*
+    
     {
       nro: 2,
-      titulo: "Información, wireframes y mockups. Intro a HTML y CSS",
-      pptLink: "materiales/Clase02_2025.pdf",
+      titulo: "Proyecto Web - Metodología de trabajo",
+      pptLink: "materiales/Clase02_proyecto.pdf",
       relatedLinks: [
         {url: "https://www.uifrommars.com/arquitectura-de-la-informacion/", label: "Que es la Arq. de la Información?"},
         {url: "https://www.uifrommars.com/que-es-wireframe/", label: "Que es un Wireframe?"},
-        {url: "https://developer.mozilla.org/es/docs/Web/HTML", label: "MDN HTML"},
         {url:"https://moqups.com",label:"Moqups"},
         {url:"https://whimsical.com",label:"Whimsical"},
         // {url:"",label:""}
       ]
     },
+    
     {
       nro: 3,
-      titulo: "CSS, Hojas de estilo en cascada - Maquetacion",
-      pptLink: "materiales/Clase02_2025.pdf",
+      titulo: "Definición de Usuarios - Intro a HTML",
+      pptLink: "materiales/clase03_userPersona.pdf",
       relatedLinks:[
-        {url:"https://developer.mozilla.org/es/docs/Web/CSS", label:"Documentacion CSS"},
-        {url: "https://lenguajecss.com/css/introduccion/que-es-css/", label:"Introduccion a CSS"},
+        {url:"https://youtu.be/CdvzQj96-aw?si=trhRrZl5N4nGlVql", label:"📺 User Personas"},
+        {url:"https://developer.mozilla.org/es/docs/Web/HTML", label:"Documentacion HTML"},
         {url: "https://codepen.io/Alejandrogrd/pen/gMZbWp", label:"CodePen - entorno de desarrollo  social para front-end"}
       ]
     },
+    /*
     {
       nro: 4,
       titulo: "Maquetacion y grilla - Github",
