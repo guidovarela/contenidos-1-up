@@ -41,9 +41,7 @@
       relatedLinks:[
         {url:"https://lenguajecss.com/css/introduccion/que-es-css/", label:"CSS, qué es?"},
         {url:"https://youtube.com/@uxcristopher", label:"Aprendé Figma (de cero a Avanzado)"},
-        {url:"https://youtube.com/@uxcristopher", label:"Aprendé Figma (de cero a Avanzado)"},
-
-
+        {url:"https://github.com/guidovarela/contenidos1_up_archivos/blob/main/ejercicios/01_maaquetaNoticias/gacetilla.jpg", label:"Tarea: Maquetar estructura y estilos, desde el wireframe"},
       ]
     },
     /*
