@@ -40,6 +40,12 @@
       background: rgba(0, 119, 255,0.2);
     }
 
+    .highlight {
+      text-decoration: underline;
+      font-weight: bold;
+      font-style: italic;
+    }
+
     .card {
       background: white;
       padding: 1.2rem;

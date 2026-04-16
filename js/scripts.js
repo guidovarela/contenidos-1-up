@@ -41,7 +41,7 @@
       relatedLinks:[
         {url:"https://lenguajecss.com/css/introduccion/que-es-css/", label:"CSS, qué es?"},
         {url:"https://youtube.com/@uxcristopher", label:"Aprendé Figma (de cero a Avanzado)"},
-        {url:"https://github.com/guidovarela/contenidos1_up_archivos/blob/main/ejercicios/01_maaquetaNoticias/gacetilla.jpg", label:"Tarea: Maquetar estructura y estilos, desde el wireframe"},
+        {url:"https://github.com/guidovarela/contenidos1_up_archivos/blob/main/ejercicios/01_maaquetaNoticias/gacetilla.jpg", label:"Tarea: Maquetar estructura y estilos, desde el wireframe", highlight: true},
       ]
     },
     /*
@@ -147,7 +147,7 @@
     // Link a PPT
     const pptLink = document.createElement('a');
     pptLink.href = clase.pptLink;
-    pptLink.textContent = "Descargar Presentación (PDF)";
+    pptLink.textContent = "Abrir Presentación de la clase (PDF)";
     pptLink.className = "presentation-link";
     pptLink.target = "_blank";
     card.appendChild(pptLink);
@@ -162,6 +162,7 @@
         a.href = linkInfo.url;
         a.textContent = linkInfo.label;
         a.target = "_blank";
+        a.className = linkInfo.highlight ? "highlight" : "";
         li.appendChild(a);
         ul.appendChild(li);
       });
