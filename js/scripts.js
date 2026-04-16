@@ -33,22 +33,21 @@
         {url: "https://codepen.io/Alejandrogrd/pen/gMZbWp", label:"CodePen - entorno de desarrollo  social para front-end"}
       ]
     },
-    /*
+    
     {
       nro: 4,
-      titulo: "Maquetacion y grilla - Github",
-      pptLink: "materiales/Clase04_2025.pdf",
+      titulo: "CSS - Maquetacion y grilla",
+      pptLink: "materiales/clase04_CSS.pdf",
       relatedLinks:[
+        {url:"https://lenguajecss.com/css/introduccion/que-es-css/", label:"CSS, qué es?"},
         {url:"https://css-tricks.com/snippets/css/a-guide-to-flexbox/", label:"Flexbox"},
         {url: "https://lenguajecss.com/css/grid/que-es-grid/", label:"Grid System CSS"},
-        {url: "https://github.com", label:"Github"},
-        {url: "https://desktop.github.com/download/", label:"Github Desktop"},
         {url: "https://flexboxfroggy.com/#es", label:"Flexbox Froggy (🎮)"},
         {url: "https://codingfantasy.com/games/flexboxadventure/play", label:"Flexbox Adventura (🎮)"},
         {url: "https://cssgridgarden.com/#es", label:"Grid Garden (🎮)"},
-        {url:"materiales/github.pps", label:"Presentacion Github"}
       ]
     },
+    /*
     {
       nro: 5,
       titulo: "Responsive Design - Fonts",
