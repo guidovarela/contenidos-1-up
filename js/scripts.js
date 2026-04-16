@@ -36,20 +36,30 @@
     
     {
       nro: 4,
-      titulo: "CSS - Maquetacion y grilla",
+      titulo: "Prototipado Funcional - Intro CSS",
       pptLink: "materiales/clase04_CSS.pdf",
       relatedLinks:[
         {url:"https://lenguajecss.com/css/introduccion/que-es-css/", label:"CSS, qué es?"},
         {url:"https://youtube.com/@uxcristopher", label:"Aprendé Figma (de cero a Avanzado)"},
+        {url:"https://youtube.com/@uxcristopher", label:"Aprendé Figma (de cero a Avanzado)"},
+
+
+      ]
+    },
+    /*
+    {
+      nro: 5,
+      titulo: "Maquetacion y grilla - Flex",
+      pptLink: "materiales/Clase04_2025.pdf",
+      relatedLinks:[
         {url:"https://css-tricks.com/snippets/css/a-guide-to-flexbox/", label:"Flexbox"},
         {url: "https://lenguajecss.com/css/grid/que-es-grid/", label:"Grid System CSS"},
         {url: "https://flexboxfroggy.com/#es", label:"Flexbox Froggy (🎮)"},
         {url: "https://codingfantasy.com/games/flexboxadventure/play", label:"Flexbox Adventura (🎮)"},
         {url: "https://cssgridgarden.com/#es", label:"Grid Garden (🎮)"},
+        
       ]
-    },
-    /*
-    {
+    },{
       nro: 5,
       titulo: "Responsive Design - Fonts",
       pptLink: "materiales/Clase04_2025.pdf",
