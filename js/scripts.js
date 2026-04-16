@@ -40,6 +40,7 @@
       pptLink: "materiales/clase04_CSS.pdf",
       relatedLinks:[
         {url:"https://lenguajecss.com/css/introduccion/que-es-css/", label:"CSS, qué es?"},
+        {url:"https://youtube.com/@uxcristopher", label:"Aprendé Figma (de cero a Avanzado)"},
         {url:"https://css-tricks.com/snippets/css/a-guide-to-flexbox/", label:"Flexbox"},
         {url: "https://lenguajecss.com/css/grid/que-es-grid/", label:"Grid System CSS"},
         {url: "https://flexboxfroggy.com/#es", label:"Flexbox Froggy (🎮)"},
