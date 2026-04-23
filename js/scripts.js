@@ -44,11 +44,11 @@
         {url:"https://github.com/guidovarela/contenidos1_up_archivos/blob/main/ejercicios/01_maaquetaNoticias/gacetilla.jpg", label:"Tarea: Maquetar estructura y estilos, desde el wireframe", highlight: true},
       ]
     },
-    /*
+    
     {
       nro: 5,
       titulo: "Maquetacion y grilla - Flex",
-      pptLink: "materiales/Clase04_2025.pdf",
+      pptLink: "materiales/clase5_DisplayCaja.pdf",
       relatedLinks:[
         {url:"https://css-tricks.com/snippets/css/a-guide-to-flexbox/", label:"Flexbox"},
         {url: "https://lenguajecss.com/css/grid/que-es-grid/", label:"Grid System CSS"},
@@ -57,7 +57,9 @@
         {url: "https://cssgridgarden.com/#es", label:"Grid Garden (🎮)"},
         
       ]
-    },{
+    },
+    /*
+    {
       nro: 5,
       titulo: "Responsive Design - Fonts",
       pptLink: "materiales/Clase04_2025.pdf",
