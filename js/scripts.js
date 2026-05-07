@@ -58,6 +58,17 @@
         
       ]
     },
+    {
+      nro: 6,
+      titulo: "Formularios - Correcciones Momento 2",
+      pptLink: "materiales/Clase05_2025.pdf",
+      relatedLinks:[
+        {url:"materiales/TPintegrador_momento2.pdf", label:"Guia de TP Integrador - Momento 2 "},
+        {url:"https://www.palermo.edu/dyc/ciclo_asignatura/index.html", label:"Ciclo de Asignatura "},
+        {url:"https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/form", label:"Formularios HTML "},
+        
+      ]
+    },
     /*
     {
       nro: 5,
@@ -66,17 +77,6 @@
       relatedLinks:[
         {url:"https://fonts.google.com/", label:"Google Fonts "},
         {url:"https://developer.mozilla.org/es/docs/Web/CSS/CSS_media_queries/Using_media_queries", label:"Media queries "},
-        
-      ]
-    },
-    {
-      nro: 6,
-      titulo: "Formularios - Correcciones Momento 2",
-      pptLink: "materiales/Clase05_2025.pdf",
-      relatedLinks:[
-        {url:"materiales/tpintegrador_momento2.pdf", label:"Guia de TP Integrador - Momento 2 "},
-        {url:"https://www.palermo.edu/dyc/ciclo_asignatura/index.html", label:"Ciclo de Asignatura "},
-        {url:"https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/form", label:"Formularios HTML "},
         
       ]
     },
