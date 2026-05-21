@@ -88,7 +88,7 @@
         {url:"https://getbootstrap.com/", label:"Bootstrap-Framework CSS"},
         {url:"materiales/bootstrap.ppsx", label:"Presentacion Bootstrap"},
         {url:"https://youtu.be/XAUBr0eegfQ?si=qf7YzCtRAtDtq0-R", label:"Bootstrap, Porque sí y porque no"},
-        {url:"https://fonts.google.com/", label:"Google Fonts "},
+        {url:"materiales/ejercicio_bootstrap.jpg", label:"Ejercicio: Maquetar con Bootstrap"},
         {url:"https://developer.mozilla.org/es/docs/Web/CSS/CSS_media_queries/Using_media_queries", label:"Media queries "},        
       ]
     },/*
