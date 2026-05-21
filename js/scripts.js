@@ -79,17 +79,19 @@
         {url:"https://developer.mozilla.org/es/docs/Web/CSS/CSS_media_queries/Using_media_queries", label:"Media queries "},
         
       ]
-    },
+    },*/
     {
       nro: 7,
-      titulo: "Frameworks - Bootstrap",
-      pptLink: "materiales/Clase07_2025.pdf",
+      titulo: "ResponsiveDesign - Bootstrap",
+      pptLink: "materiales/clase07_ResponsiveDesign.pdf",
       relatedLinks:[
-        {url:"https://getbootstrap.com/", label:"Bootstrap"},
+        {url:"https://getbootstrap.com/", label:"Bootstrap-Framework CSS"},
+        {url:"materiales/bootstrap.ppsx", label:"Presentacion Bootstrap"},
         {url:"https://youtu.be/XAUBr0eegfQ?si=qf7YzCtRAtDtq0-R", label:"Bootstrap, Porque sí y porque no"},
-        {url:"clases/clase07", label:"Archivos de Clase"},        
+        {url:"https://fonts.google.com/", label:"Google Fonts "},
+        {url:"https://developer.mozilla.org/es/docs/Web/CSS/CSS_media_queries/Using_media_queries", label:"Media queries "},        
       ]
-    },
+    },/*
     {
       nro: 8,
       titulo: "Bootstrap parte 2 - Componentes",
