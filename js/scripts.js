@@ -94,11 +94,13 @@
     },
     {
       nro: 8,
-      titulo: "Bootstrap parte 2 - Componentes",
-      pptLink: "materiales/bootstrap.ppsx",
+      titulo: "Componentes Bootstrap - Github <i class='fa-brands fa-github-alt'></i>",
+      pptLink: "materiales/clase08_Github.pdf",
       relatedLinks:[
         {url:"https://getbootstrap.com/docs/5.3/components/", label:"Componentes Bootstrap"},
-        {url:"clases/clase08/ejercicioBootstrap.jpg", label:"Ejercicio Maquetacion"},        
+        {url:"clases/clase08/ejercicioBootstrap.jpg", label:"Ejercicio Maquetacion"},
+        {url:"https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf", label:"Cheat Sheet de Github"},
+
       ]
     },/*
     {
@@ -145,13 +147,13 @@
 
     // Título
     const h2 = document.createElement('h2');
-    h2.textContent = `Clase ${clase.nro}: ${clase.titulo}`;
+    h2.innerHTML = `Clase ${clase.nro}: ${clase.titulo}`;
     card.appendChild(h2);
 
     // Link a PPT
     const pptLink = document.createElement('a');
     pptLink.href = clase.pptLink;
-    pptLink.textContent = "Abrir Presentación de la clase (PDF)";
+    pptLink.innerHTML = "Abrir Presentación de la clase (PDF)";
     pptLink.className = "presentation-link";
     pptLink.target = "_blank";
     card.appendChild(pptLink);
