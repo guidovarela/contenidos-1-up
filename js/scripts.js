@@ -91,16 +91,16 @@
         {url:"materiales/ejercicio_bootstrap.jpg", label:"Ejercicio: Maquetar con Bootstrap"},
         {url:"https://developer.mozilla.org/es/docs/Web/CSS/CSS_media_queries/Using_media_queries", label:"Media queries "},        
       ]
-    },/*
+    },
     {
       nro: 8,
       titulo: "Bootstrap parte 2 - Componentes",
-      pptLink: "materiales/Clase07_2025.pdf",
+      pptLink: "materiales/bootstrap.ppsx",
       relatedLinks:[
         {url:"https://getbootstrap.com/docs/5.3/components/", label:"Componentes Bootstrap"},
         {url:"clases/clase08/ejercicioBootstrap.jpg", label:"Ejercicio Maquetacion"},        
       ]
-    },
+    },/*
     {
       nro: 9,
       titulo: "plugins JS",
