@@ -115,15 +115,15 @@
         {url:"https://swup.js.org/getting-started/installation/#esm",label:"Swup"},        
         {url:"https://www.emailjs.com/docs/sdk/installation/",label:"EmailJS"}        
       ]
-    },
+    },*/
     {
       nro: 9,
       titulo: "Entrega Momento 3",
       pptLink: "materiales/TPintegrador_Momento3.pdf",
       relatedLinks:[
+        {url:"https://desktop.github.com/download/", label:"Github Desktop"},
         {url:"https://youtu.be/sLTNgxxSBR4?si=MBq5QM120AHWVn4G", label:"Deploy en Github Pages"},
-        {url:"https://www.netlify.com/", label:"Netlify - Servidor Alternativo a G.Pages"},
-        {url:"https://vercel.com/", label:"Vercel - Servidor Alternativo a G.Pages"},
+        {url:"https://youtu.be/ij0Wi7hKUgU?si=s2h3RZvPuHYu5QoU", label:"Deploy en Netlify - Cloud Hosting"},
       ]
     },
     // {
@@ -135,7 +135,6 @@
     //     {url: "https://www.javascript.com/", label: "JavaScript Oficial"},
     //   ]
     // },
-    */
   ];
 
   const container = document.getElementById('classes-container');
